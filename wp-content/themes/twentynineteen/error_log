@@ -1,0 +1,24 @@
+[15-Jul-2022 06:37:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/bluetick/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[19-Aug-2022 02:47:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/bluetick/public_html/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentynineteen/index.php on line 17
+[09-Apr-2023 22:49:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/bluetick/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[21-May-2023 09:07:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/bluetick/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[23-May-2023 20:04:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/bluetick/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[01-Jul-2023 15:14:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home4/bluetick/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentynineteen/404.php on line 12

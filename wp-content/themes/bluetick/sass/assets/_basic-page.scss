@@ -1,0 +1,33 @@
+.basic-wrapper{
+    padding-top: 240px;
+    padding-bottom: 120px;
+}
+.basic-wrapper .entry-title{
+    @include semi-bold-font;
+    line-height: normal;
+    font-size: 55px;
+    text-align: center;
+    letter-spacing: -3px;
+
+    color: #025157;
+}
+.basic-wrapper .entry-content{
+font-style: normal;
+font-weight: normal;
+line-height: 32px;
+font-size: 18px;
+
+color: #4A4A4A;
+}
+.basic-wrapper header{
+    margin-bottom: 120px;
+    text-align: center;
+}
+.basic-wrapper header p{
+font-style: normal;
+font-weight: normal;
+line-height: 31px;
+font-size: 20px;
+text-align: center;
+color: #000;
+}

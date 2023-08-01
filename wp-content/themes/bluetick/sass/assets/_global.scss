@@ -1,0 +1,100 @@
+// Global styling for this template
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+body {
+   @include sans-serif-font;
+    font-size: 22px;
+    color: #004669;
+    background-color: #ffec75;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+img, svg {
+    max-width: 100%;    
+}
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  @include semi-bold-font; 
+  margin-bottom: 0.5rem;
+  font-family: inherit;
+  font-weight: 300;
+  line-height: 1.2;
+  color: inherit; }
+
+h1, .h1 {
+  font-size: 2.5rem; }
+
+h2, .h2 {
+  font-size: 1.7rem; }
+
+h3, .h3 {
+  font-size: 1.57rem; }
+
+h4, .h4 {
+  font-size: 1.40rem; }
+
+h5, .h5 {
+  font-size: 1.25rem; }
+
+h6, .h6 {
+  font-size: 1rem; }
+a {
+    color: #000;
+    text-decoration: none;
+}
+a:hover {
+    color: #8c8a8b;
+    text-decoration: none;
+}
+.container {
+    max-width: 1000px !important;
+}
+#preloader {
+    position: fixed;
+    top: 0px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff;
+    z-index: 997;
+    display: block;
+}
+#preloader #preloader-status {
+    position: fixed;
+    width: 90px;
+    height: 135px;
+    left: 50%;
+    margin-left: -50px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background-image: url(../img/preloader.png);
+    background-repeat: no-repeat;
+    background-size: 90px;
+}
+.content-wrapper{
+    //margin-top: -90px;
+    padding-bottom: 66px;
+    position: relative;
+    //@include transition-all;
+    transition: transform 0.2s ease-in-out;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.stop-scroll{
+    overflow: hidden;
+}
+.no-bottom-padding{
+  padding-bottom: 0 !important;
+}
+.clear-float{
+  clear: both;
+}

@@ -1,0 +1,24 @@
+[08-Aug-2022 13:41:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php on line 15
+[08-Aug-2022 16:15:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-page.php on line 15
+[08-Aug-2022 20:26:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php on line 12
+[20-Aug-2022 05:47:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-page.php on line 15
+[20-Aug-2022 06:45:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php on line 15
+[20-Aug-2022 18:13:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php on line 12

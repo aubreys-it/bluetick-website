@@ -1,0 +1,8 @@
+[28-Nov-2022 04:30:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/bluetick/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-admin/user/menu.php on line 10
+[25-Jan-2023 23:32:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home4/bluetick/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-admin/user/menu.php on line 10

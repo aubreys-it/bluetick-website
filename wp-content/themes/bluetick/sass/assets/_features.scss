@@ -1,0 +1,141 @@
+.page-intro{
+	margin-top: 140px;
+	margin-bottom: 140px;
+	position: relative;
+}
+.page-intro .container{
+	position: relative;
+}
+.page-intro .row{
+	position: relative;
+	z-index: 2;
+}
+.page-intro-title{
+	display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  position: relative;
+  z-index: 2;
+}
+.page-intro-title h1{
+	@include serif-font();
+	color: $color_2;
+	font-size: 36px;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	display: inline-block;
+	position: relative;
+	margin: 0;
+	margin-right: 26px;
+	margin-left: 26px;
+}
+.page-intro-title-border{
+	display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+	height: 2px;
+	position: relative;
+	background-color: $color_3;
+	top: 18px;
+}
+.page-intro-content{
+	margin-top: 20px;
+	padding-right: 30px;
+}
+.page-intro-content p{
+	@include sans-serif-font();
+font-weight: bold;
+font-size: 18px;
+letter-spacing: 0.05em;
+line-height: 30px;
+text-align: left;
+color: #464647;
+}
+.page-intro-text{
+position: absolute;
+z-index: 1;
+width: 603px;
+    left: 0px;
+    top: 70px;
+}
+.page-intro-text svg path{
+	fill: $color_1;
+}
+
+.features-and-amenities{
+	text-align: center;
+	position: relative;
+	z-index: 1;
+	margin-top: 280px;
+}
+.features-and-amenities .container{
+	position: relative;
+	z-index: 2;
+}
+.features-and-amenities h1:after {
+    content: '';
+    width: 168px;
+    height: 2px;
+    position: absolute;
+    left: 50%;
+    top: -50px;
+    transform: translateX(-50%);
+    background-color: #b7b3ad;
+}
+.features-and-amenities .border-title{
+	margin-bottom: 110px;
+}
+.feature-block{
+	position: relative;
+	z-index: 2;
+	margin-bottom: 200px;
+}
+.feature-block h1{
+font-weight: normal;
+font-size: 60px;
+letter-spacing: 0.1em;
+color: #b7b3ad;
+line-height: 66px;
+margin-top: 50px;
+margin-bottom: 6px;
+}
+.feature-photo{
+	position: relative;
+	z-index: 1;
+}
+.feature-block-content{
+	padding: 60px;
+	background: rgba(246, 247, 247, 0.9);
+	position: relative;
+	z-index: 2;
+	margin-left: -260px;
+	margin-top: 20px;
+}
+.feature-block-content p{
+
+}
+.feature-block-content ul{
+font-weight: normal;
+font-size: 20px;
+line-height: 35px;
+color: #464647;
+}
+.feature-block-right{
+	margin-bottom: 0;
+}
+.feature-block-right .feature-block-content{
+	margin-right: -260px;
+	margin-left: 0;
+}
+.features-and-amenities .bg-shape {
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: -220px;
+    z-index: 1;
+}
+.page-template-features .page-intro-text{
+	width: 603px;
+    top: 41px;
+}

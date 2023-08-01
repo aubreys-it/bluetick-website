@@ -1,0 +1,125 @@
+/*FOOTER */
+.schedule-tour-block{
+    background-color: #B7B3AD;
+    height: 116px;
+    text-align: right;
+}
+.schedule-tour-block a{
+    display: inline-block;
+font-weight: bold;
+font-size: 24px;
+letter-spacing: 0.15em;
+background-color: #B7B3AD;
+    padding-left: 40px;
+color: #fff;
+}
+.schedule-tour-block a:hover{
+    color: #464647;
+}
+.schedule-tour-block .container{
+    height: 100%;
+    position: relative;
+}
+.schedule-tour-block .container:before{
+    content: '';
+    height: 2px;
+    background-color: #fff;
+    display: block;
+    width: 100%;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.schedule-tour-content{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.schedule-tour-block a img{
+    margin-left: 30px;
+}
+
+.site-footer {
+    position: relative;
+    margin-top: 0;
+    background-color: #dadfe6;
+    background-image: url(../img/bg_pattern.png);
+    background-repeat: repeat;
+    background-size: 16px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.footer-address{
+    text-align: center;
+    
+font-weight: normal;
+font-size: 14px;
+letter-spacing: 0.05em;
+line-height: 32px;
+text-align: center;
+color: #464647;
+
+    padding-top: 14px;
+}
+.footer-address p:last-child{
+    margin-bottom: 0;
+}
+.footer-logo{
+    text-align: center;
+}
+.footer-logo img{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.footer-logos{
+    padding-top: 22px;
+    text-align: center;
+}
+.logo-wrapper{
+    margin-bottom: 30px;
+}
+.logo-title{
+    font-size: 12px;
+    padding-right: 0;
+    color: #464647;
+    margin-bottom: 10px;
+}
+.site-footer a{
+    color: #fff;
+}
+.logo-row-2{
+    margin-top: 20px;
+}
+.site-footer .social-menu{
+    margin: 0;
+    display: block;
+    text-align: center;
+    margin-top: 28px;
+}
+.site-footer .social-menu li a {
+    display: block;
+    color: #464647;
+    font-size: 26px;
+}
+.footer-links{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.footer-links li{
+    display: block;
+    text-align: center;
+}
+.footer-side-link{
+    @include sans-serif-font();
+
+font-weight: bold;
+font-size: 16px;
+letter-spacing: 0.15em;
+line-height: 20px;
+text-align: center;
+color: #464647 !important;
+text-transform: uppercase;
+
+}
+

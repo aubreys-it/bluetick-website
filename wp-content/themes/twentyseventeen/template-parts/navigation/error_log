@@ -1,0 +1,8 @@
+[09-Aug-2022 00:31:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php on line 12
+[21-Aug-2022 00:09:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php on line 12

@@ -1,0 +1,40 @@
+[08-Aug-2022 15:29:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-none.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-none.php on line 17
+[08-Aug-2022 15:58:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php on line 15
+[08-Aug-2022 16:01:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php on line 17
+[08-Aug-2022 19:16:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-video.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-video.php on line 15
+[09-Aug-2022 05:17:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-image.php on line 15
+[20-Aug-2022 03:49:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-none.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-none.php on line 17
+[20-Aug-2022 07:03:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php on line 15
+[20-Aug-2022 08:09:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-image.php on line 15
+[20-Aug-2022 14:09:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php on line 17
+[15-Jul-2023 13:41:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/bluetick/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php on line 15

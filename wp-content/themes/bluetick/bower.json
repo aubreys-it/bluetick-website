@@ -1,0 +1,31 @@
+{
+  "name": "_olea",
+  "version": "0.6.2",
+  "homepage": "http://_olea.com",
+  "authors": [
+    "Holger Koenemann <office@holgerkoenemann.de>"
+  ],
+  "description": "UnderStrap is a Bootstrap and _oleas based WordPress theme framework.",
+  "moduleType": "globals",
+  "main": [
+    "sass/theme.scss"
+  ],
+  "keywords": [
+    "bootstrap",
+    "_oleas",
+    "wordpress",
+    "_s",
+    "sass"
+  ],
+  "license": "GPL-2.0",
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "_source": "https://github.com/holger1411/_olea.git",
+  "_target": "~0.6.2",
+  "_originalSource": "_olea"
+}
