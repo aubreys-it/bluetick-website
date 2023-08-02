@@ -1,8 +1,0 @@
-[30-Nov-2022 09:28:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/bluetick/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
-Stack trace:
-#0 {main}
-  thrown in /home4/bluetick/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
-[25-Jan-2023 23:24:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home4/bluetick/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
-Stack trace:
-#0 {main}
-  thrown in /home4/bluetick/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17

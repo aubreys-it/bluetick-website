@@ -1,4 +1,0 @@
-[17-Jun-2023 02:21:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home4/bluetick/public_html/wp-admin/includes/admin.php:16
-Stack trace:
-#0 {main}
-  thrown in /home4/bluetick/public_html/wp-admin/includes/admin.php on line 16
